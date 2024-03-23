@@ -1,0 +1,56 @@
+<?PHP include('header.php'); ?>
+
+<h1>read before using!</h1>
+This stylesheet comes with a comment header psd so you can change the background color of "comment" to whatever you want.
+<br><br>
+I am keeping the current "linkity" bars background black for the stylesheet. If you want to use this stylesheet AND change the bars color than please message me on Facebook.
+<br><br>
+
+I used this stylesheet before. See it in action > 
+<a target="_blank" href="http://loveblush.net/currentlayout/loveblush/v16">{CLICK HERE!}</a>
+
+
+<br><br>
+<h1>header</h1>
+<center><b>bold</b> // <i>italic</i> // <u>underline</u> // <s>strikethrough</s> // <a href="">basic link</a>
+<br>
+</center>
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ligula lorem, accumsan ultricies neque accumsan, interdum dapibus leo. Donec condimentum porttitor leo eu rutrum. Aenean vitae diam tristique, consequat nibh eu, eleifend magna. Vestibulum aliquet ligula et placerat suscipit. Nam.
+
+<center>
+<blockquote>
+♥ This is your blockquotes section. <br>
+♥ Click <a href="http://www.loveblush.net/stylesheets/stylesheet117.zip">here</a> to download this stylesheet.<br>
+</blockquote>
+</center>
+
+
+<h1>header</h1>
+<center>
+<textarea>
+this is your textarea
+</textarea>
+<br><br>
+</center>
+
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis tellus suscipit, scelerisque purus et, mollis tortor. Pellentesque ut ultrices eros, et aliquam lorem. Nam id metus sit amet leo dignissim vehicula eget vitae neque. Phasellus et facilisis orci. Cras varius finibus augue. Ut eget est egestas, elementum ligula dapibus, commodo erat. Curabitur ut pulvinar nisi. Aliquam erat volutpat. Vivamus.
+
+<br><br>
+
+<h1>images look like</h1>
+<br>
+<center>
+<img src="http://loveblush.net/currentlayout/loveblush/v12/v12icon.png">
+<img src="http://loveblush.net/currentlayout/loveblush/v12/v12icon.png">
+<img src="http://loveblush.net/currentlayout/loveblush/v12/v12icon.png">
+<img src="http://loveblush.net/currentlayout/loveblush/v12/v12icon.png">
+<img src="http://loveblush.net/currentlayout/loveblush/v12/v12icon.png">
+</center>
+<br><br>
+
+</center>
+
+
+<?PHP include('footer.php'); ?>
